@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Mint Custom NFT's
+### Tired of seeing the same NFT's over and over again? Me too! Using my site, you can mint NFT's with ramdomized letters!
+![Screen Shot 2022-06-16 at 12 05 30 AM](https://user-images.githubusercontent.com/73257550/173989056-41d2cbfc-9d04-456d-9470-c02a3b890ae0.png)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+### Here are some that i've minted! Look how cool they are! (And special! 🤗)
+![Screen Shot 2022-06-16 at 12 07 36 AM](https://user-images.githubusercontent.com/73257550/173989166-9e744ec6-ce03-414a-b4bf-d72751211aa1.png)
